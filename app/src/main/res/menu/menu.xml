@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuler0" android:title="Hakkımızda"></item>
+    <item android:id="@+id/menuler1" android:title="Misyon ve Vizyon"></item>
+    <item android:id="@+id/menuler2" android:title="İletişim"></item>
+    <item android:id="@+id/menuler3" android:title="Ürünlerimiz"></item>
+    <item android:id="@+id/menuler4" android:title="Telegrambot"></item>
+    <item android:id="@+id/menuler5" android:title="Çıkış">  </item>
+
+
+
+
+</menu>
